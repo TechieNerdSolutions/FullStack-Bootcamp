@@ -29,12 +29,19 @@ Lesson 3: JavaScript Basics
 - Functions and objects
 - Hands-on exercises: JavaScript coding challenges
 
-Lesson 4: Introduction to Backend Development with Flask
+Lesson 4: Introduction to Backend Development with Flask $ Django 
 - Introduction to Flask framework
 - Creating routes and handling requests
 - Templating with Jinja2
 - Handling forms and user input
 - Hands-on project: Building a simple Flask application
+- Introduction to Django
+- Setting up a Django Project
+- Django Models and Database Integration
+- Django Views and URL Routing
+- Django Templates
+- Form Handling and User Input Validation
+- Authentication and Authorization
 
 Lesson 5: Database Management with SQL
 - Introduction to databases and SQL
@@ -223,4 +230,3 @@ Conclusion:
 - Next steps and further learning resources
 - Final thoughts and encouragement
 
-*The course textbook will be available in PDF format, and students can download it for offline access. Additionally, we can also provide a print version of the textbook for students who prefer to learn from physical books.
